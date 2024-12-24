@@ -1,0 +1,3 @@
+# Floating Terminal
+
+For Neovim
